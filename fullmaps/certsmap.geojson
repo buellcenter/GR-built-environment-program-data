@@ -1,0 +1,613 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Anne Arundel Community College",
+        "city": "Arnold",
+        "state": "MD",
+        "census_division": "South Atlantic",
+        "main_url": "www.aacc.edu",
+        "instate_tuition_and_fees": 7706,
+        "in_state_tuition_living_on_campus": "NULL",
+        "out_of_state_tuition_living_on_campus": "NULL",
+        "in_state_tuition_living_off_campus": 24328,
+        "out_of_state_tuition_living_off_campus": 29188,
+        "in_state_tuition_living_with_family": 13798,
+        "out_of_state_tuition_living_with_family": 18658,
+        "graduate_in_state_tuition": "NA",
+        "graduate_in_state_fees": "NA",
+        "graduate_out_of_state_tuition": "NA",
+        "graduate_out_of_state_fees": "NA",
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": "NULL",
+        "number_of_undergrad_students": 13904,
+        "funding_source": "PublicPrivate",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.512223,
+          39.049813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Boston University",
+        "city": "Boston",
+        "state": "MA",
+        "census_division": "New England",
+        "main_url": "www.bu.edu",
+        "instate_tuition_and_fees": 52082,
+        "in_state_tuition_living_on_campus": 70302,
+        "out_of_state_tuition_living_on_campus": 70302,
+        "in_state_tuition_living_off_campus": 70302,
+        "out_of_state_tuition_living_off_campus": 70302,
+        "in_state_tuition_living_with_family": 56882,
+        "out_of_state_tuition_living_with_family": 56882,
+        "graduate_in_state_tuition": 56854,
+        "graduate_in_state_fees": 812,
+        "graduate_out_of_state_tuition": 56854,
+        "graduate_out_of_state_fees": 812,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 29,
+        "number_of_undergrad_students": 17944,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09984,
+          42.349581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Bucks County Community College",
+        "city": "Newtown",
+        "state": "PA",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.bucks.edu/",
+        "instate_tuition_and_fees": 8138,
+        "in_state_tuition_living_on_campus": "NULL",
+        "out_of_state_tuition_living_on_campus": "NULL",
+        "in_state_tuition_living_off_campus": 21408,
+        "out_of_state_tuition_living_off_campus": 25128,
+        "in_state_tuition_living_with_family": 14158,
+        "out_of_state_tuition_living_with_family": 17878,
+        "graduate_in_state_tuition": "NA",
+        "graduate_in_state_fees": "NA",
+        "graduate_out_of_state_tuition": "NA",
+        "graduate_out_of_state_fees": "NA",
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 100,
+        "number_of_undergrad_students": 8232,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.965841,
+          40.239102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Clatsop Community College",
+        "city": "Astoria",
+        "state": "OR",
+        "census_division": "Pacific",
+        "main_url": "www.clatsopcc.edu",
+        "instate_tuition_and_fees": 4014,
+        "in_state_tuition_living_on_campus": "NULL",
+        "out_of_state_tuition_living_on_campus": "NULL",
+        "in_state_tuition_living_off_campus": 17886,
+        "out_of_state_tuition_living_off_campus": 21450,
+        "in_state_tuition_living_with_family": 9858,
+        "out_of_state_tuition_living_with_family": 13422,
+        "graduate_in_state_tuition": "NA",
+        "graduate_in_state_fees": "NA",
+        "graduate_out_of_state_tuition": "NA",
+        "graduate_out_of_state_fees": "NA",
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 100,
+        "number_of_undergrad_students": 900,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.823339,
+          46.183107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "College of Charleston",
+        "city": "Charleston",
+        "state": "SC",
+        "census_division": "South Atlantic",
+        "main_url": "www.cofc.edu",
+        "instate_tuition_and_fees": 12422,
+        "in_state_tuition_living_on_campus": 29669,
+        "out_of_state_tuition_living_on_campus": 48057,
+        "in_state_tuition_living_off_campus": 28638,
+        "out_of_state_tuition_living_off_campus": 47026,
+        "in_state_tuition_living_with_family": 17750,
+        "out_of_state_tuition_living_with_family": 36138,
+        "graduate_in_state_tuition": 13770,
+        "graduate_in_state_fees": 460,
+        "graduate_out_of_state_tuition": 36132,
+        "graduate_out_of_state_fees": 460,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 84,
+        "number_of_undergrad_students": 10375,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.937251,
+          32.783142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "East Carolina University",
+        "city": "Greenville",
+        "state": "NC",
+        "census_division": "South Atlantic",
+        "main_url": "www.ecu.edu",
+        "instate_tuition_and_fees": 7143,
+        "in_state_tuition_living_on_campus": 22000,
+        "out_of_state_tuition_living_on_campus": 38277,
+        "in_state_tuition_living_off_campus": 22000,
+        "out_of_state_tuition_living_off_campus": 38277,
+        "in_state_tuition_living_with_family": 19605,
+        "out_of_state_tuition_living_with_family": 35882,
+        "graduate_in_state_tuition": 4749,
+        "graduate_in_state_fees": 2787,
+        "graduate_out_of_state_tuition": 17898,
+        "graduate_out_of_state_fees": 2787,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 70,
+        "number_of_undergrad_students": 22969,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.368291,
+          35.607186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "North Carolina State University at Raleigh",
+        "city": "Raleigh",
+        "state": "NC",
+        "census_division": "South Atlantic",
+        "main_url": "www.ncsu.edu",
+        "instate_tuition_and_fees": 9058,
+        "in_state_tuition_living_on_campus": 23700,
+        "out_of_state_tuition_living_on_campus": 42048,
+        "in_state_tuition_living_off_campus": 23700,
+        "out_of_state_tuition_living_off_campus": 42048,
+        "in_state_tuition_living_with_family": 17082,
+        "out_of_state_tuition_living_with_family": 35430,
+        "graduate_in_state_tuition": 9095,
+        "graduate_in_state_fees": 2578,
+        "graduate_out_of_state_tuition": 26421,
+        "graduate_out_of_state_fees": 2578,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 48,
+        "number_of_undergrad_students": 23827,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.674517,
+          35.785111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Savannah Technical College - Savannah Campus",
+        "city": "Savannah",
+        "state": "GA",
+        "census_division": "South Atlantic",
+        "main_url": "www.savannahtech.edu",
+        "instate_tuition_and_fees": 2744,
+        "in_state_tuition_living_on_campus": 16284,
+        "out_of_state_tuition_living_on_campus": 18420,
+        "in_state_tuition_living_off_campus": 16284,
+        "out_of_state_tuition_living_off_campus": 18420,
+        "in_state_tuition_living_with_family": 6474,
+        "out_of_state_tuition_living_with_family": 8610,
+        "graduate_in_state_tuition": "NA",
+        "graduate_in_state_fees": "NA",
+        "graduate_out_of_state_tuition": "NA",
+        "graduate_out_of_state_fees": "NA",
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 100,
+        "number_of_undergrad_students": 3938,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.114753,
+          32.023211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "The University of Texas at Austin",
+        "city": "Austin",
+        "state": "TX",
+        "census_division": "West South Central",
+        "main_url": "www.utexas.edu",
+        "instate_tuition_and_fees": 10398,
+        "in_state_tuition_living_on_campus": 25440,
+        "out_of_state_tuition_living_on_campus": 51786,
+        "in_state_tuition_living_off_campus": 25440,
+        "out_of_state_tuition_living_off_campus": 51786,
+        "in_state_tuition_living_with_family": 15370,
+        "out_of_state_tuition_living_with_family": 41716,
+        "graduate_in_state_tuition": 12028,
+        "graduate_in_state_fees": 0,
+        "graduate_out_of_state_tuition": 22886,
+        "graduate_out_of_state_fees": 0,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 40,
+        "number_of_undergrad_students": 40168,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.739291,
+          30.28609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Arizona",
+        "city": "Tucson",
+        "state": "AZ",
+        "census_division": "Mountain",
+        "main_url": "www.arizona.edu",
+        "instate_tuition_and_fees": 11877,
+        "in_state_tuition_living_on_campus": 28277,
+        "out_of_state_tuition_living_on_campus": 51707,
+        "in_state_tuition_living_off_campus": 30177,
+        "out_of_state_tuition_living_off_campus": 53607,
+        "in_state_tuition_living_with_family": 15977,
+        "out_of_state_tuition_living_with_family": 39407,
+        "graduate_in_state_tuition": 11938,
+        "graduate_in_state_fees": 1334,
+        "graduate_out_of_state_tuition": 32065,
+        "graduate_out_of_state_fees": 1334,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 79,
+        "number_of_undergrad_students": 33694,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.950815,
+          32.232672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Cincinnati-Main Campus",
+        "city": "Cincinnati",
+        "state": "OH",
+        "census_division": "East North Central",
+        "main_url": "www.uc.edu",
+        "instate_tuition_and_fees": 11000,
+        "in_state_tuition_living_on_campus": 28156,
+        "out_of_state_tuition_living_on_campus": 44490,
+        "in_state_tuition_living_off_campus": 30268,
+        "out_of_state_tuition_living_off_campus": 46602,
+        "in_state_tuition_living_with_family": 17024,
+        "out_of_state_tuition_living_with_family": 33358,
+        "graduate_in_state_tuition": 13224,
+        "graduate_in_state_fees": 1678,
+        "graduate_out_of_state_tuition": 24966,
+        "graduate_out_of_state_fees": 1678,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 76,
+        "number_of_undergrad_students": 25820,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51428,
+          39.131159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Kentucky",
+        "city": "Lexington",
+        "state": "KY",
+        "census_division": "East South Central",
+        "main_url": "www.uky.edu",
+        "instate_tuition_and_fees": 11942,
+        "in_state_tuition_living_on_campus": 29530,
+        "out_of_state_tuition_living_on_campus": 45634,
+        "in_state_tuition_living_off_campus": 29530,
+        "out_of_state_tuition_living_off_campus": 45634,
+        "in_state_tuition_living_with_family": 16672,
+        "out_of_state_tuition_living_with_family": 32776,
+        "graduate_in_state_tuition": 12189,
+        "graduate_in_state_fees": 1349,
+        "graduate_out_of_state_tuition": 31867,
+        "graduate_out_of_state_fees": 1349,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 91,
+        "number_of_undergrad_students": 22621,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.504747,
+          38.038911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Michigan-Ann Arbor",
+        "city": "Ann Arbor",
+        "state": "MI",
+        "census_division": "East North Central",
+        "main_url": "www.umich.edu",
+        "instate_tuition_and_fees": 14826,
+        "in_state_tuition_living_on_campus": 29526,
+        "out_of_state_tuition_living_on_campus": 62176,
+        "in_state_tuition_living_off_campus": 29526,
+        "out_of_state_tuition_living_off_campus": 62176,
+        "in_state_tuition_living_with_family": 20688,
+        "out_of_state_tuition_living_with_family": 53338,
+        "graduate_in_state_tuition": 24344,
+        "graduate_in_state_fees": 428,
+        "graduate_out_of_state_tuition": 49120,
+        "graduate_out_of_state_fees": 428,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 29,
+        "number_of_undergrad_students": 28983,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.742769,
+          42.275921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Minnesota-Twin Cities",
+        "city": "Minneapolis",
+        "state": "MN",
+        "census_division": "West North Central",
+        "main_url": "twin-cities.umn.edu/",
+        "instate_tuition_and_fees": 14417,
+        "in_state_tuition_living_on_campus": 27469,
+        "out_of_state_tuition_living_on_campus": 39655,
+        "in_state_tuition_living_off_campus": 27469,
+        "out_of_state_tuition_living_off_campus": 39655,
+        "in_state_tuition_living_with_family": 17617,
+        "out_of_state_tuition_living_with_family": 29803,
+        "graduate_in_state_tuition": 17580,
+        "graduate_in_state_fees": 1641,
+        "graduate_out_of_state_tuition": 27204,
+        "graduate_out_of_state_fees": 1641,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 44,
+        "number_of_undergrad_students": 34870,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.235352,
+          44.977886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Missouri-Kansas City",
+        "city": "Kansas City",
+        "state": "MO",
+        "census_division": "West North Central",
+        "main_url": "www.umkc.edu/",
+        "instate_tuition_and_fees": 8011,
+        "in_state_tuition_living_on_campus": 23529,
+        "out_of_state_tuition_living_on_campus": 35311,
+        "in_state_tuition_living_off_campus": 23145,
+        "out_of_state_tuition_living_off_campus": 34927,
+        "in_state_tuition_living_with_family": 13223,
+        "out_of_state_tuition_living_with_family": 25005,
+        "graduate_in_state_tuition": "NA",
+        "graduate_in_state_fees": "NA",
+        "graduate_out_of_state_tuition": "NA",
+        "graduate_out_of_state_fees": "NA",
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 62,
+        "number_of_undergrad_students": 11704,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.578039,
+          39.035366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of North Carolina at Greensboro",
+        "city": "Greensboro",
+        "state": "NC",
+        "census_division": "South Atlantic",
+        "main_url": "www.uncg.edu",
+        "instate_tuition_and_fees": 7250,
+        "in_state_tuition_living_on_campus": 20659,
+        "out_of_state_tuition_living_on_campus": 35818,
+        "in_state_tuition_living_off_campus": 19622,
+        "out_of_state_tuition_living_off_campus": 34781,
+        "in_state_tuition_living_with_family": 12278,
+        "out_of_state_tuition_living_with_family": 27437,
+        "graduate_in_state_tuition": "NA",
+        "graduate_in_state_fees": "NA",
+        "graduate_out_of_state_tuition": "NA",
+        "graduate_out_of_state_fees": "NA",
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 74,
+        "number_of_undergrad_students": 16281,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.809844,
+          36.067503
+        ]
+      }
+    }
+  ]
+}

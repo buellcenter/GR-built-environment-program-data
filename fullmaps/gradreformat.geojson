@@ -1,0 +1,5616 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Academy of Art University",
+        "city": "San Francisco",
+        "state": "CA",
+        "census_division": "Pacific",
+        "main_url": "www.academyart.edu",
+        "in_state_tuition": 27288,
+        "in_state_fees": 400,
+        "out_of_state_tuition": 27288,
+        "out_of_state_fees": 400,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": "NULL",
+        "number_of_undergrad_students": 8303,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.400686,
+          37.787748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Alabama A & M University",
+        "city": "Normal",
+        "state": "AL",
+        "census_division": "East South Central",
+        "main_url": "www.aamu.edu/",
+        "in_state_tuition": 10128,
+        "in_state_fees": 1414,
+        "out_of_state_tuition": 20160,
+        "out_of_state_fees": 1414,
+        "hbcu": 1,
+        "tribal_college": 2,
+        "percent_admitted": 87,
+        "number_of_undergrad_students": 4851,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.568502,
+          34.7833679999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Andrews University",
+        "city": "Berrien Springs",
+        "state": "MI",
+        "census_division": "East North Central",
+        "main_url": "www.andrews.edu",
+        "in_state_tuition": 27936,
+        "in_state_fees": 974,
+        "out_of_state_tuition": 27936,
+        "out_of_state_fees": 974,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 40,
+        "number_of_undergrad_students": 1673,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.355815,
+          41.963859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Appalachian State University",
+        "city": "Boone",
+        "state": "NC",
+        "census_division": "South Atlantic",
+        "main_url": "www.appstate.edu/",
+        "in_state_tuition": 4839,
+        "in_state_fees": 3168,
+        "out_of_state_tuition": 18271,
+        "out_of_state_fees": 3168,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 68,
+        "number_of_undergrad_students": 16595,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.680234,
+          36.214844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Arizona State University-Tempe",
+        "city": "Tempe",
+        "state": "AZ",
+        "census_division": "Mountain",
+        "main_url": "www.asu.edu/",
+        "in_state_tuition": 11720,
+        "in_state_fees": 888,
+        "out_of_state_tuition": 26160,
+        "out_of_state_fees": 888,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 83,
+        "number_of_undergrad_students": 42477,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934383,
+          33.417721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Auburn University",
+        "city": "Auburn",
+        "state": "AL",
+        "census_division": "East South Central",
+        "main_url": "www.auburn.edu",
+        "in_state_tuition": 10080,
+        "in_state_fees": 1716,
+        "out_of_state_tuition": 30240,
+        "out_of_state_fees": 1716,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 81,
+        "number_of_undergrad_students": 22658,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.488258,
+          32.599378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Ball State University",
+        "city": "Muncie",
+        "state": "IN",
+        "census_division": "East North Central",
+        "main_url": "www.bsu.edu",
+        "in_state_tuition": 9328,
+        "in_state_fees": 662,
+        "out_of_state_tuition": 25542,
+        "out_of_state_fees": 662,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 62,
+        "number_of_undergrad_students": 17011,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.409043,
+          40.203431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Boston Architectural College",
+        "city": "Boston",
+        "state": "MA",
+        "census_division": "New England",
+        "main_url": "www.the-bac.edu",
+        "in_state_tuition": 25220,
+        "in_state_fees": 750,
+        "out_of_state_tuition": 25220,
+        "out_of_state_fees": 750,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": "NULL",
+        "number_of_undergrad_students": 365,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.085851,
+          42.34867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Boston University",
+        "city": "Boston",
+        "state": "MA",
+        "census_division": "New England",
+        "main_url": "www.bu.edu",
+        "in_state_tuition": 56854,
+        "in_state_fees": 812,
+        "out_of_state_tuition": 56854,
+        "out_of_state_fees": 812,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 29,
+        "number_of_undergrad_students": 17944,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09984,
+          42.349581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Bowling Green State University-Main Campus",
+        "city": "Bowling Green",
+        "state": "OH",
+        "census_division": "East North Central",
+        "main_url": "www.bgsu.edu",
+        "in_state_tuition": 8017,
+        "in_state_fees": 1814,
+        "out_of_state_tuition": 14009,
+        "out_of_state_fees": 1814,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 76,
+        "number_of_undergrad_students": 14852,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.640896,
+          41.375513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "California Baptist University",
+        "city": "Riverside",
+        "state": "CA",
+        "census_division": "Pacific",
+        "main_url": "www.calbaptist.edu",
+        "in_state_tuition": 13410,
+        "in_state_fees": 730,
+        "out_of_state_tuition": 13410,
+        "out_of_state_fees": 730,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 64,
+        "number_of_undergrad_students": 6937,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.425869999999,
+          33.928569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "California College of the Arts",
+        "city": "San Francisco",
+        "state": "CA",
+        "census_division": "Pacific",
+        "main_url": "www.cca.edu",
+        "in_state_tuition": 53250,
+        "in_state_fees": 545,
+        "out_of_state_tuition": 53250,
+        "out_of_state_fees": 545,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 65,
+        "number_of_undergrad_students": 1528,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.399451,
+          37.767485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "California Polytechnic State University-San Luis Obispo",
+        "city": "San Luis Obispo",
+        "state": "CA",
+        "census_division": "Pacific",
+        "main_url": "calpoly.edu",
+        "in_state_tuition": 7176,
+        "in_state_fees": 4329,
+        "out_of_state_tuition": 16680,
+        "out_of_state_fees": 4329,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 29,
+        "number_of_undergrad_students": 20426,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.657311,
+          35.299513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "California State Polytechnic University-Pomona",
+        "city": "Pomona",
+        "state": "CA",
+        "census_division": "Pacific",
+        "main_url": "www.cpp.edu",
+        "in_state_tuition": 7176,
+        "in_state_fees": 1697,
+        "out_of_state_tuition": 16680,
+        "out_of_state_fees": 1697,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 59,
+        "number_of_undergrad_students": 23733,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.819019,
+          34.0542729999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "California State University-Northridge",
+        "city": "Northridge",
+        "state": "CA",
+        "census_division": "Pacific",
+        "main_url": "www.csun.edu",
+        "in_state_tuition": 7176,
+        "in_state_fees": 1275,
+        "out_of_state_tuition": 16680,
+        "out_of_state_fees": 1275,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 48,
+        "number_of_undergrad_students": 35756,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.526817,
+          34.2367099999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Carnegie Mellon University",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.cmu.edu/",
+        "in_state_tuition": 46441,
+        "in_state_fees": 885,
+        "out_of_state_tuition": 46441,
+        "out_of_state_fees": 885,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 22,
+        "number_of_undergrad_students": 6283,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.942914,
+          40.4446159999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Catholic University of America",
+        "city": "Washington",
+        "state": "DC",
+        "census_division": "South Atlantic",
+        "main_url": "www.cua.edu",
+        "in_state_tuition": 49680,
+        "in_state_fees": 660,
+        "out_of_state_tuition": 49680,
+        "out_of_state_fees": 660,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 80,
+        "number_of_undergrad_students": 3241,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.998961,
+          38.935796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Clemson University",
+        "city": "Clemson",
+        "state": "SC",
+        "census_division": "South Atlantic",
+        "main_url": "www.clemson.edu",
+        "in_state_tuition": 10600,
+        "in_state_fees": 1196,
+        "out_of_state_tuition": 22050,
+        "out_of_state_fees": 1196,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 51,
+        "number_of_undergrad_students": 18599,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.835114,
+          34.679381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Cleveland State University",
+        "city": "Cleveland",
+        "state": "OH",
+        "census_division": "East North Central",
+        "main_url": "www.csuohio.edu/",
+        "in_state_tuition": 10215,
+        "in_state_fees": 126,
+        "out_of_state_tuition": 17496,
+        "out_of_state_fees": 126,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 87,
+        "number_of_undergrad_students": 12352,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.673052,
+          41.502918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "College of Charleston",
+        "city": "Charleston",
+        "state": "SC",
+        "census_division": "South Atlantic",
+        "main_url": "www.cofc.edu",
+        "in_state_tuition": 13770,
+        "in_state_fees": 460,
+        "out_of_state_tuition": 36132,
+        "out_of_state_fees": 460,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 84,
+        "number_of_undergrad_students": 10375,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.937251,
+          32.783142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Columbia University in the City of New York",
+        "city": "New York",
+        "state": "NY",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.columbia.edu",
+        "in_state_tuition": 49024,
+        "in_state_fees": 2170,
+        "out_of_state_tuition": 49024,
+        "out_of_state_fees": 2170,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 7,
+        "number_of_undergrad_students": 8124,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.961885,
+          40.8082859999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Cooper Union for the Advancement of Science and Art",
+        "city": "New York",
+        "state": "NY",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.cooper.edu",
+        "in_state_tuition": 36145,
+        "in_state_fees": 2270,
+        "out_of_state_tuition": 36145,
+        "out_of_state_fees": 2270,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 15,
+        "number_of_undergrad_students": 876,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990516,
+          40.72938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Cornell University",
+        "city": "Ithaca",
+        "state": "NY",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.cornell.edu",
+        "in_state_tuition": 29500,
+        "in_state_fees": 542,
+        "out_of_state_tuition": 29500,
+        "out_of_state_fees": 542,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 14,
+        "number_of_undergrad_students": 14566,
+        "funding_source": "Private",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4830839999999,
+          42.4472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "CUNY City College",
+        "city": "New York",
+        "state": "NY",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.ccny.cuny.edu",
+        "in_state_tuition": 11090,
+        "in_state_fees": 312,
+        "out_of_state_tuition": 20520,
+        "out_of_state_fees": 312,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 45,
+        "number_of_undergrad_students": 13317,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95055,
+          40.819794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "CUNY Hunter College",
+        "city": "New York",
+        "state": "NY",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.hunter.cuny.edu",
+        "in_state_tuition": 11090,
+        "in_state_fees": 312,
+        "out_of_state_tuition": 20520,
+        "out_of_state_fees": 312,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 38,
+        "number_of_undergrad_students": 16723,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.964795,
+          40.768669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Drexel University",
+        "city": "Philadelphia",
+        "state": "PA",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.drexel.edu",
+        "in_state_tuition": 36234,
+        "in_state_fees": 840,
+        "out_of_state_tuition": 36234,
+        "out_of_state_fees": 840,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 75,
+        "number_of_undergrad_students": 15552,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.188745,
+          39.954855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Drury University",
+        "city": "Springfield",
+        "state": "MO",
+        "census_division": "West North Central",
+        "main_url": "www.drury.edu",
+        "in_state_tuition": 8388,
+        "in_state_fees": 127,
+        "out_of_state_tuition": 8388,
+        "out_of_state_fees": 127,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 70,
+        "number_of_undergrad_students": 3330,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2857729999999,
+          37.219757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "East Carolina University",
+        "city": "Greenville",
+        "state": "NC",
+        "census_division": "South Atlantic",
+        "main_url": "www.ecu.edu",
+        "in_state_tuition": 4749,
+        "in_state_fees": 2787,
+        "out_of_state_tuition": 17898,
+        "out_of_state_fees": 2787,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 70,
+        "number_of_undergrad_students": 22969,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.368291,
+          35.607186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Eastern Michigan University",
+        "city": "Ypsilanti",
+        "state": "MI",
+        "census_division": "East North Central",
+        "main_url": "www.emich.edu",
+        "in_state_tuition": 14868,
+        "in_state_fees": 110,
+        "out_of_state_tuition": 26442,
+        "out_of_state_fees": 110,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 73,
+        "number_of_undergrad_students": 17682,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.742769,
+          42.275921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Eastern Washington University",
+        "city": "Cheney",
+        "state": "WA",
+        "census_division": "Pacific",
+        "main_url": "www.ewu.edu",
+        "in_state_tuition": 12015,
+        "in_state_fees": 1026,
+        "out_of_state_tuition": 27895,
+        "out_of_state_fees": 1026,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 95,
+        "number_of_undergrad_students": 11217,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.583808,
+          47.4906669999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Fairmont State University",
+        "city": "Fairmont",
+        "state": "WV",
+        "census_division": "South Atlantic",
+        "main_url": "www.fairmontstate.edu/",
+        "in_state_tuition": 7072,
+        "in_state_fees": 1850,
+        "out_of_state_tuition": 17038,
+        "out_of_state_fees": 1850,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 65,
+        "number_of_undergrad_students": 3804,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1618439999999,
+          39.485925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Ferris State University",
+        "city": "Big Rapids",
+        "state": "MI",
+        "census_division": "East North Central",
+        "main_url": "www.ferris.edu/",
+        "in_state_tuition": 7908,
+        "in_state_fees": 0,
+        "out_of_state_tuition": 7908,
+        "out_of_state_fees": 0,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 78,
+        "number_of_undergrad_students": 12866,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.483509,
+          43.687464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Florida Agricultural and Mechanical University",
+        "city": "Tallahassee",
+        "state": "FL",
+        "census_division": "South Atlantic",
+        "main_url": "www.famu.edu",
+        "in_state_tuition": 8019,
+        "in_state_fees": 1857,
+        "out_of_state_tuition": 22108,
+        "out_of_state_fees": 1857,
+        "hbcu": 1,
+        "tribal_college": 2,
+        "percent_admitted": 31,
+        "number_of_undergrad_students": 7769,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.290226,
+          30.4285039999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Florida Atlantic University - Boca Raton",
+        "city": "Boca Raton",
+        "state": "FL",
+        "census_division": "South Atlantic",
+        "main_url": "www.fau.edu/",
+        "in_state_tuition": 5467,
+        "in_state_fees": 1226,
+        "out_of_state_tuition": 16695,
+        "out_of_state_fees": 1226,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 60,
+        "number_of_undergrad_students": 25402,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.102978,
+          26.372421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Florida International University",
+        "city": "Miami",
+        "state": "FL",
+        "census_division": "South Atlantic",
+        "main_url": "www.fiu.edu",
+        "in_state_tuition": 8912,
+        "in_state_fees": 2194,
+        "out_of_state_tuition": 21393,
+        "out_of_state_fees": 2194,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 50,
+        "number_of_undergrad_students": 45856,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.377591,
+          25.757111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Florida State University",
+        "city": "Tallahassee",
+        "state": "FL",
+        "census_division": "South Atlantic",
+        "main_url": "www.fsu.edu",
+        "in_state_tuition": 9684,
+        "in_state_fees": 1869,
+        "out_of_state_tuition": 24116,
+        "out_of_state_fees": 1869,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 58,
+        "number_of_undergrad_students": 32933,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.291921,
+          30.440756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "George Washington University",
+        "city": "Washington",
+        "state": "DC",
+        "census_division": "South Atlantic",
+        "main_url": "www.gwu.edu",
+        "in_state_tuition": 31770,
+        "in_state_fees": 54,
+        "out_of_state_tuition": 31770,
+        "out_of_state_fees": 54,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 40,
+        "number_of_undergrad_students": 11504,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.047871,
+          38.89865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Georgetown University",
+        "city": "Washington",
+        "state": "DC",
+        "census_division": "South Atlantic",
+        "main_url": "www.georgetown.edu",
+        "in_state_tuition": 53136,
+        "in_state_fees": 455,
+        "out_of_state_tuition": 53136,
+        "out_of_state_fees": 455,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 17,
+        "number_of_undergrad_students": 7453,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.073463,
+          38.908809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Georgia Institute of Technology-Main Campus",
+        "city": "Atlanta",
+        "state": "GA",
+        "census_division": "South Atlantic",
+        "main_url": "www.gatech.edu",
+        "in_state_tuition": 14064,
+        "in_state_fees": 2194,
+        "out_of_state_tuition": 29140,
+        "out_of_state_fees": 2194,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 26,
+        "number_of_undergrad_students": 15489,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.394832,
+          33.77242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Georgia State University",
+        "city": "Atlanta",
+        "state": "GA",
+        "census_division": "South Atlantic",
+        "main_url": "www.gsu.edu",
+        "in_state_tuition": 7164,
+        "in_state_fees": 2128,
+        "out_of_state_tuition": 22662,
+        "out_of_state_fees": 2128,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 59,
+        "number_of_undergrad_students": 25228,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38667,
+          33.7527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Goucher College",
+        "city": "Baltimore",
+        "state": "MD",
+        "census_division": "South Atlantic",
+        "main_url": "www.goucher.edu",
+        "in_state_tuition": 8982,
+        "in_state_fees": 65,
+        "out_of_state_tuition": 8982,
+        "out_of_state_fees": 65,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 79,
+        "number_of_undergrad_students": 1473,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.594843,
+          39.410175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Hampton University",
+        "city": "Hampton",
+        "state": "VA",
+        "census_division": "South Atlantic",
+        "main_url": "www.hamptonu.edu",
+        "in_state_tuition": 13099,
+        "in_state_fees": 35,
+        "out_of_state_tuition": 13099,
+        "out_of_state_fees": 35,
+        "hbcu": 1,
+        "tribal_college": 2,
+        "percent_admitted": 65,
+        "number_of_undergrad_students": 3836,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.339161,
+          37.019944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Harvard University",
+        "city": "Cambridge",
+        "state": "MA",
+        "census_division": "New England",
+        "main_url": "www.harvard.edu",
+        "in_state_tuition": 49448,
+        "in_state_fees": 1206,
+        "out_of_state_tuition": 49448,
+        "out_of_state_fees": 1206,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 5,
+        "number_of_undergrad_students": 9915,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.118313,
+          42.374471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Howard University",
+        "city": "Washington",
+        "state": "DC",
+        "census_division": "South Atlantic",
+        "main_url": "www.howard.edu",
+        "in_state_tuition": 32248,
+        "in_state_fees": 1976,
+        "out_of_state_tuition": 32248,
+        "out_of_state_fees": 1976,
+        "hbcu": 1,
+        "tribal_college": 2,
+        "percent_admitted": 30,
+        "number_of_undergrad_students": 5899,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.019478,
+          38.920739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Illinois Institute of Technology",
+        "city": "Chicago",
+        "state": "IL",
+        "census_division": "East North Central",
+        "main_url": "www.iit.edu",
+        "in_state_tuition": 29075,
+        "in_state_fees": 1620,
+        "out_of_state_tuition": 29075,
+        "out_of_state_fees": 1620,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 57,
+        "number_of_undergrad_students": 2944,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.627321,
+          41.8313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Indiana University-Bloomington",
+        "city": "Bloomington",
+        "state": "IN",
+        "census_division": "East North Central",
+        "main_url": "www.iub.edu",
+        "in_state_tuition": 9786,
+        "in_state_fees": 1406,
+        "out_of_state_tuition": 31932,
+        "out_of_state_fees": 1406,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 79,
+        "number_of_undergrad_students": 39184,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.526904,
+          39.166383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Iowa State University",
+        "city": "Ames",
+        "state": "IA",
+        "census_division": "West North Central",
+        "main_url": "www.iastate.edu",
+        "in_state_tuition": 9758,
+        "in_state_fees": 1228,
+        "out_of_state_tuition": 24720,
+        "out_of_state_fees": 1228,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 87,
+        "number_of_undergrad_students": 30671,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.648504,
+          42.026212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Jackson State University",
+        "city": "Jackson",
+        "state": "MS",
+        "census_division": "East South Central",
+        "main_url": "www.jsums.edu",
+        "in_state_tuition": 8270,
+        "in_state_fees": 175,
+        "out_of_state_tuition": 8270,
+        "out_of_state_fees": 175,
+        "hbcu": 1,
+        "tribal_college": 2,
+        "percent_admitted": 63,
+        "number_of_undergrad_students": 7492,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20663,
+          32.296781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Jefferson (Philadelphia University } Thomas Jefferson University)",
+        "city": "Philadelphia",
+        "state": "PA",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.philau.edu",
+        "in_state_tuition": 21420,
+        "in_state_fees": 558,
+        "out_of_state_tuition": 21420,
+        "out_of_state_fees": 558,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 61,
+        "number_of_undergrad_students": 2701,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.192645,
+          40.022882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Judson University",
+        "city": "Elgin",
+        "state": "IL",
+        "census_division": "East North Central",
+        "main_url": "www.judsonu.edu",
+        "in_state_tuition": 18400,
+        "in_state_fees": 500,
+        "out_of_state_tuition": 18400,
+        "out_of_state_fees": 500,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 75,
+        "number_of_undergrad_students": 1135,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2897079999999,
+          42.05896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Kansas State University",
+        "city": "Manhattan",
+        "state": "KS",
+        "census_division": "West North Central",
+        "main_url": "www.k-state.edu",
+        "in_state_tuition": 10212,
+        "in_state_fees": 1065,
+        "out_of_state_tuition": 23050,
+        "out_of_state_fees": 1065,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 94,
+        "number_of_undergrad_students": 19472,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.581077,
+          39.188648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Kean University",
+        "city": "Union",
+        "state": "NJ",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.kean.edu",
+        "in_state_tuition": 15752,
+        "in_state_fees": 1604,
+        "out_of_state_tuition": 20714,
+        "out_of_state_fees": 1604,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 74,
+        "number_of_undergrad_students": 11812,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.234668,
+          40.679429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Kent State University at Kent",
+        "city": "Kent",
+        "state": "OH",
+        "census_division": "East North Central",
+        "main_url": "www.kent.edu",
+        "in_state_tuition": 11766,
+        "in_state_fees": 0,
+        "out_of_state_tuition": 21952,
+        "out_of_state_fees": 0,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 85,
+        "number_of_undergrad_students": 23684,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3425329999999,
+          41.146653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Lawrence Technological University",
+        "city": "Southfield",
+        "state": "MI",
+        "census_division": "East North Central",
+        "main_url": "ltu.edu",
+        "in_state_tuition": 17318,
+        "in_state_fees": 600,
+        "out_of_state_tuition": 17318,
+        "out_of_state_fees": 600,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 79,
+        "number_of_undergrad_students": 2172,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2497967,
+          42.4755011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Louisiana State University and Agricultural & Mechanical College",
+        "city": "Baton Rouge",
+        "state": "LA",
+        "census_division": "West South Central",
+        "main_url": "www.lsu.edu",
+        "in_state_tuition": 9132,
+        "in_state_fees": 3903,
+        "out_of_state_tuition": 9132,
+        "out_of_state_fees": 3903,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 76,
+        "number_of_undergrad_students": 26118,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.178921,
+          30.414986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Louisiana Tech University",
+        "city": "Ruston",
+        "state": "LA",
+        "census_division": "West South Central",
+        "main_url": "www.latech.edu",
+        "in_state_tuition": 5416,
+        "in_state_fees": 2543,
+        "out_of_state_tuition": 10147,
+        "out_of_state_fees": 2543,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 63,
+        "number_of_undergrad_students": 11281,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.649963,
+          32.5282969999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Marywood University",
+        "city": "Scranton",
+        "state": "PA",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.marywood.edu/",
+        "in_state_tuition": 9888,
+        "in_state_fees": 1550,
+        "out_of_state_tuition": 9888,
+        "out_of_state_fees": 1550,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 68,
+        "number_of_undergrad_students": 1931,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.633996,
+          41.434978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Massachusetts College of Art and Design",
+        "city": "Boston",
+        "state": "MA",
+        "census_division": "New England",
+        "main_url": "www.massart.edu",
+        "in_state_tuition": 24000,
+        "in_state_fees": 0,
+        "out_of_state_tuition": 24000,
+        "out_of_state_fees": 0,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 71,
+        "number_of_undergrad_students": 1842,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.099275,
+          42.3368619999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Massachusetts Institute of Technology",
+        "city": "Cambridge",
+        "state": "MA",
+        "census_division": "New England",
+        "main_url": "web.mit.edu/student/",
+        "in_state_tuition": 53450,
+        "in_state_fees": 3269,
+        "out_of_state_tuition": 53450,
+        "out_of_state_fees": 3269,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 8,
+        "number_of_undergrad_students": 4524,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.092115,
+          42.360095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Miami University-Oxford",
+        "city": "Oxford",
+        "state": "OH",
+        "census_division": "East North Central",
+        "main_url": "www.miamioh.edu",
+        "in_state_tuition": 12554,
+        "in_state_fees": 1051,
+        "out_of_state_tuition": 30646,
+        "out_of_state_fees": 1051,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 65,
+        "number_of_undergrad_students": 16981,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.731821,
+          39.509642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Michigan State University",
+        "city": "East Lansing",
+        "state": "MI",
+        "census_division": "East North Central",
+        "main_url": "https://www.msu.edu",
+        "in_state_tuition": 18858,
+        "in_state_fees": 0,
+        "out_of_state_tuition": 37056,
+        "out_of_state_fees": 0,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 66,
+        "number_of_undergrad_students": 39090,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.476111,
+          42.73212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Middle Tennessee State University",
+        "city": "Murfreesboro",
+        "state": "TN",
+        "census_division": "East South Central",
+        "main_url": "www.mtsu.edu",
+        "in_state_tuition": 8946,
+        "in_state_fees": 1404,
+        "out_of_state_tuition": 24768,
+        "out_of_state_fees": 1404,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 69,
+        "number_of_undergrad_students": 19693,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.360618,
+          35.848005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Minnesota State University-Mankato",
+        "city": "Mankato",
+        "state": "MN",
+        "census_division": "West North Central",
+        "main_url": "www.mnsu.edu",
+        "in_state_tuition": 7994,
+        "in_state_fees": 794,
+        "out_of_state_tuition": 7994,
+        "out_of_state_fees": 794,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 62,
+        "number_of_undergrad_students": 13192,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.99945,
+          44.146712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Mississippi State University",
+        "city": "Mississippi State",
+        "state": "MS",
+        "census_division": "East South Central",
+        "main_url": "www.msstate.edu",
+        "in_state_tuition": 8800,
+        "in_state_fees": 110,
+        "out_of_state_tuition": 23840,
+        "out_of_state_fees": 110,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 56,
+        "number_of_undergrad_students": 18090,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.790139,
+          33.454852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Missouri State University-Springfield",
+        "city": "Springfield",
+        "state": "MO",
+        "census_division": "West North Central",
+        "main_url": "www.missouristate.edu",
+        "in_state_tuition": 5436,
+        "in_state_fees": 1098,
+        "out_of_state_tuition": 10944,
+        "out_of_state_fees": 1098,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 84,
+        "number_of_undergrad_students": 20316,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.276821,
+          37.197983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Montana State University",
+        "city": "Bozeman",
+        "state": "MT",
+        "census_division": "Mountain",
+        "main_url": "www.montana.edu/",
+        "in_state_tuition": 5089,
+        "in_state_fees": 1561,
+        "out_of_state_tuition": 19660,
+        "out_of_state_fees": 1561,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 83,
+        "number_of_undergrad_students": 14340,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.048812,
+          45.666726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Morgan State University",
+        "city": "Baltimore",
+        "state": "MD",
+        "census_division": "South Atlantic",
+        "main_url": "www.morgan.edu",
+        "in_state_tuition": 8190,
+        "in_state_fees": 1247,
+        "out_of_state_tuition": 16092,
+        "out_of_state_fees": 1247,
+        "hbcu": 1,
+        "tribal_college": 2,
+        "percent_admitted": 60,
+        "number_of_undergrad_students": 6362,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.584238,
+          39.344235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "New Jersey Institute of Technology",
+        "city": "Newark",
+        "state": "NJ",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.njit.edu/",
+        "in_state_tuition": 20624,
+        "in_state_fees": 3204,
+        "out_of_state_tuition": 30540,
+        "out_of_state_fees": 3204,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 59,
+        "number_of_undergrad_students": 8211,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.177113,
+          40.741997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "New School of Architecture and Design",
+        "city": "San Diego",
+        "state": "CA",
+        "census_division": "Pacific",
+        "main_url": "www.newschoolarch.edu",
+        "in_state_tuition": 30771,
+        "in_state_fees": 600,
+        "out_of_state_tuition": 30771,
+        "out_of_state_fees": 600,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 98,
+        "number_of_undergrad_students": 402,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.153457199999,
+          32.7133678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "New York Institute of Technology",
+        "city": "Old Westbury",
+        "state": "NY",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.nyit.edu",
+        "in_state_tuition": 25200,
+        "in_state_fees": 260,
+        "out_of_state_tuition": 25200,
+        "out_of_state_fees": 260,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 73,
+        "number_of_undergrad_students": 3575,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6078,
+          40.812447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "New York University",
+        "city": "New York",
+        "state": "NY",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.nyu.edu",
+        "in_state_tuition": 34704,
+        "in_state_fees": 2188,
+        "out_of_state_tuition": 34704,
+        "out_of_state_fees": 2188,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 32,
+        "number_of_undergrad_students": 26135,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.997264,
+          40.729452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "North Carolina State University at Raleigh",
+        "city": "Raleigh",
+        "state": "NC",
+        "census_division": "South Atlantic",
+        "main_url": "www.ncsu.edu",
+        "in_state_tuition": 9095,
+        "in_state_fees": 2578,
+        "out_of_state_tuition": 26421,
+        "out_of_state_fees": 2578,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 48,
+        "number_of_undergrad_students": 23827,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.674517,
+          35.785111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "North Dakota State University-Main Campus",
+        "city": "Fargo",
+        "state": "ND",
+        "census_division": "West North Central",
+        "main_url": "https://www.ndsu.edu",
+        "in_state_tuition": 7013,
+        "in_state_fees": 1070,
+        "out_of_state_tuition": 10519,
+        "out_of_state_fees": 1070,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 93,
+        "number_of_undergrad_students": 12010,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.800838,
+          46.893127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Northeastern University",
+        "city": "Boston",
+        "state": "MA",
+        "census_division": "New England",
+        "main_url": "www.northeastern.edu",
+        "in_state_tuition": 25264,
+        "in_state_fees": 294,
+        "out_of_state_tuition": 25264,
+        "out_of_state_fees": 294,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 29,
+        "number_of_undergrad_students": 13473,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.088782,
+          42.3399919999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Northern Arizona University",
+        "city": "Flagstaff",
+        "state": "AZ",
+        "census_division": "Mountain",
+        "main_url": "nau.edu/",
+        "in_state_tuition": 10309,
+        "in_state_fees": 857,
+        "out_of_state_tuition": 18630,
+        "out_of_state_fees": 857,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 78,
+        "number_of_undergrad_students": 26500,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.653724,
+          35.188449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Norwich University",
+        "city": "Northfield",
+        "state": "VT",
+        "census_division": "New England",
+        "main_url": "www.norwich.edu",
+        "in_state_tuition": 18614,
+        "in_state_fees": 1650,
+        "out_of_state_tuition": 18614,
+        "out_of_state_fees": 1650,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 70,
+        "number_of_undergrad_students": 3152,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.660129,
+          44.139402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Ohio State University-Main Campus",
+        "city": "Columbus",
+        "state": "OH",
+        "census_division": "East North Central",
+        "main_url": "www.osu.edu/",
+        "in_state_tuition": 11560,
+        "in_state_fees": 865,
+        "out_of_state_tuition": 36276,
+        "out_of_state_fees": 865,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 54,
+        "number_of_undergrad_students": 45831,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.009001,
+          39.998389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Pennsylvania State University-Main Campus",
+        "city": "University Park",
+        "state": "PA",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.psu.edu/",
+        "in_state_tuition": 22464,
+        "in_state_fees": 530,
+        "out_of_state_tuition": 38198,
+        "out_of_state_fees": 530,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 56,
+        "number_of_undergrad_students": 41359,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.861644,
+          40.800732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Polytechnic University of Puerto Rico",
+        "city": "San Juan",
+        "state": "PR",
+        "census_division": "Puerto Rico",
+        "main_url": "www.pupr.edu",
+        "in_state_tuition": "NULL",
+        "in_state_fees": "NULL",
+        "out_of_state_tuition": "NULL",
+        "out_of_state_fees": "NULL",
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 86,
+        "number_of_undergrad_students": 4315,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0559137,
+          18.4223343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Portland State University",
+        "city": "Portland",
+        "state": "OR",
+        "census_division": "Pacific",
+        "main_url": "www.pdx.edu",
+        "in_state_tuition": 14652,
+        "in_state_fees": 1641,
+        "out_of_state_tuition": 22143,
+        "out_of_state_fees": 1641,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 89,
+        "number_of_undergrad_students": 21071,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683553,
+          45.511229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Prairie View A & M University",
+        "city": "Prairie View",
+        "state": "TX",
+        "census_division": "West South Central",
+        "main_url": "www.pvamu.edu",
+        "in_state_tuition": 5096,
+        "in_state_fees": 2755,
+        "out_of_state_tuition": 14316,
+        "out_of_state_fees": 2755,
+        "hbcu": 1,
+        "tribal_college": 2,
+        "percent_admitted": 85,
+        "number_of_undergrad_students": 7417,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.989475,
+          30.092425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Pratt Institute-Main",
+        "city": "Brooklyn",
+        "state": "NY",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.pratt.edu",
+        "in_state_tuition": 33246,
+        "in_state_fees": 1980,
+        "out_of_state_tuition": 33246,
+        "out_of_state_fees": 1980,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 58,
+        "number_of_undergrad_students": 3484,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.962149,
+          40.691154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Princeton University",
+        "city": "Princeton",
+        "state": "NJ",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.princeton.edu",
+        "in_state_tuition": 53890,
+        "in_state_fees": 2580,
+        "out_of_state_tuition": 53890,
+        "out_of_state_fees": 2580,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 7,
+        "number_of_undergrad_students": 5400,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.659365,
+          40.348732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Rensselaer Polytechnic Institute",
+        "city": "Troy",
+        "state": "NY",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.rpi.edu",
+        "in_state_tuition": 55600,
+        "in_state_fees": 2725,
+        "out_of_state_tuition": 55600,
+        "out_of_state_fees": 2725,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 44,
+        "number_of_undergrad_students": 6265,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.678768,
+          42.728983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Rhode Island School of Design",
+        "city": "Providence",
+        "state": "RI",
+        "census_division": "New England",
+        "main_url": "www.risd.edu",
+        "in_state_tuition": 53820,
+        "in_state_fees": 1070,
+        "out_of_state_tuition": 53820,
+        "out_of_state_fees": 1070,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 34,
+        "number_of_undergrad_students": 1999,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.407692,
+          41.825935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Rice University",
+        "city": "Houston",
+        "state": "TX",
+        "census_division": "West South Central",
+        "main_url": "www.rice.edu",
+        "in_state_tuition": 47306,
+        "in_state_fees": 607,
+        "out_of_state_tuition": 47306,
+        "out_of_state_fees": 607,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 15,
+        "number_of_undergrad_students": 3893,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.402035,
+          29.7178969999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Rochester Institute of Technology",
+        "city": "Rochester",
+        "state": "NY",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.rit.edu/",
+        "in_state_tuition": 50136,
+        "in_state_fees": 306,
+        "out_of_state_tuition": 50136,
+        "out_of_state_fees": 306,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 55,
+        "number_of_undergrad_students": 13384,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6738599999999,
+          43.084188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Roger Williams University",
+        "city": "Bristol",
+        "state": "RI",
+        "census_division": "New England",
+        "main_url": "www.rwu.edu",
+        "in_state_tuition": 17016,
+        "in_state_fees": 900,
+        "out_of_state_tuition": 17016,
+        "out_of_state_fees": 900,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 79,
+        "number_of_undergrad_students": 4902,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.260374,
+          41.650214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Rowan University",
+        "city": "Glassboro",
+        "state": "NJ",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.rowan.edu",
+        "in_state_tuition": 12879,
+        "in_state_fees": 2908,
+        "out_of_state_tuition": 12879,
+        "out_of_state_fees": 2908,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 71,
+        "number_of_undergrad_students": 14345,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.117974,
+          39.709768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Rutgers University-New Brunswick",
+        "city": "New Brunswick",
+        "state": "NJ",
+        "census_division": "Middle Atlantic",
+        "main_url": "newbrunswick.rutgers.edu/",
+        "in_state_tuition": 17736,
+        "in_state_fees": 1988,
+        "out_of_state_tuition": 30144,
+        "out_of_state_fees": 1988,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 57,
+        "number_of_undergrad_students": 36168,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.446251,
+          40.498769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Saint Louis University",
+        "city": "Saint Louis",
+        "state": "MO",
+        "census_division": "West North Central",
+        "main_url": "www.slu.edu",
+        "in_state_tuition": 21420,
+        "in_state_fees": 654,
+        "out_of_state_tuition": 21420,
+        "out_of_state_fees": 654,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 65,
+        "number_of_undergrad_students": 11779,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23343,
+          38.636516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "San Diego State University",
+        "city": "San Diego",
+        "state": "CA",
+        "census_division": "Pacific",
+        "main_url": "www.sdsu.edu",
+        "in_state_tuition": 7176,
+        "in_state_fees": 1978,
+        "out_of_state_tuition": 16680,
+        "out_of_state_fees": 1978,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 35,
+        "number_of_undergrad_students": 29860,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.071228,
+          32.77525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "San Jose State University",
+        "city": "San Jose",
+        "state": "CA",
+        "census_division": "Pacific",
+        "main_url": "www.sjsu.edu",
+        "in_state_tuition": 7176,
+        "in_state_fees": 2110,
+        "out_of_state_tuition": 16680,
+        "out_of_state_fees": 2110,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 53,
+        "number_of_undergrad_students": 26432,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.880620999999,
+          37.336569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Savannah College of Art and Design",
+        "city": "Savannah",
+        "state": "GA",
+        "census_division": "South Atlantic",
+        "main_url": "www.scad.edu",
+        "in_state_tuition": 38475,
+        "in_state_fees": 500,
+        "out_of_state_tuition": 38475,
+        "out_of_state_fees": 500,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 72,
+        "number_of_undergrad_students": 10005,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.093849,
+          32.072963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "School of the Art Institute of Chicago",
+        "city": "Chicago",
+        "state": "IL",
+        "census_division": "East North Central",
+        "main_url": "www.saic.edu",
+        "in_state_tuition": 42952,
+        "in_state_fees": 960,
+        "out_of_state_tuition": 42952,
+        "out_of_state_fees": 960,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 59,
+        "number_of_undergrad_students": 2848,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.621411,
+          41.879646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "South Dakota State University",
+        "city": "Brookings",
+        "state": "SD",
+        "census_division": "West North Central",
+        "main_url": "www.sdstate.edu/",
+        "in_state_tuition": 8083,
+        "in_state_fees": 1202,
+        "out_of_state_tuition": 15541,
+        "out_of_state_fees": 1202,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 91,
+        "number_of_undergrad_students": 10946,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.782139,
+          44.317485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Southeast Missouri State University",
+        "city": "Cape Girardeau",
+        "state": "MO",
+        "census_division": "West North Central",
+        "main_url": "www.semo.edu",
+        "in_state_tuition": 5373,
+        "in_state_fees": 753,
+        "out_of_state_tuition": 10039,
+        "out_of_state_fees": 753,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 83,
+        "number_of_undergrad_students": 10693,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.529119,
+          37.31575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Southern California Institute of Architecture",
+        "city": "Los Angeles",
+        "state": "CA",
+        "census_division": "Pacific",
+        "main_url": "www.sciarc.edu",
+        "in_state_tuition": 46878,
+        "in_state_fees": 850,
+        "out_of_state_tuition": 46878,
+        "out_of_state_fees": 850,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": "NULL",
+        "number_of_undergrad_students": 262,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.232703,
+          34.04365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Southern Illinois University-Carbondale",
+        "city": "Carbondale",
+        "state": "IL",
+        "census_division": "East North Central",
+        "main_url": "www.siu.edu",
+        "in_state_tuition": 11268,
+        "in_state_fees": 4758,
+        "out_of_state_tuition": 28170,
+        "out_of_state_fees": 4758,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 77,
+        "number_of_undergrad_students": 12182,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2172729999999,
+          37.714193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "SUNY at Albany",
+        "city": "Albany",
+        "state": "NY",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.albany.edu",
+        "in_state_tuition": 11310,
+        "in_state_fees": 2125,
+        "out_of_state_tuition": 23100,
+        "out_of_state_fees": 2125,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 54,
+        "number_of_undergrad_students": 13139,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.825014,
+          42.686917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "SUNY College of Environmental Science and Forestry",
+        "city": "Syracuse",
+        "state": "NY",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.esf.edu",
+        "in_state_tuition": 11310,
+        "in_state_fees": 1890,
+        "out_of_state_tuition": 23100,
+        "out_of_state_fees": 1890,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 54,
+        "number_of_undergrad_students": 1751,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.138724,
+          43.034765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "SUNY University at Buffalo",
+        "city": "Buffalo",
+        "state": "NY",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.buffalo.edu",
+        "in_state_tuition": 11310,
+        "in_state_fees": 1890,
+        "out_of_state_tuition": 23100,
+        "out_of_state_fees": 1890,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 59,
+        "number_of_undergrad_students": 20412,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.789458,
+          43.0009419999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Syracuse University",
+        "city": "Syracuse",
+        "state": "NY",
+        "census_division": "Middle Atlantic",
+        "main_url": "syr.edu/",
+        "in_state_tuition": 40392,
+        "in_state_fees": 1322,
+        "out_of_state_tuition": 40392,
+        "out_of_state_fees": 1322,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 52,
+        "number_of_undergrad_students": 15218,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.136975,
+          43.040176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Temple University",
+        "city": "Philadelphia",
+        "state": "PA",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.temple.edu",
+        "in_state_tuition": 16956,
+        "in_state_fees": 890,
+        "out_of_state_tuition": 23346,
+        "out_of_state_fees": 890,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 52,
+        "number_of_undergrad_students": 29275,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.158267,
+          39.9809429999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Texas A & M University-College Station",
+        "city": "College Station",
+        "state": "TX",
+        "census_division": "West South Central",
+        "main_url": "www.tamu.edu",
+        "in_state_tuition": 6775,
+        "in_state_fees": 3695,
+        "out_of_state_tuition": 19048,
+        "out_of_state_fees": 3695,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 67,
+        "number_of_undergrad_students": 50735,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.336475,
+          30.618726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Texas Southern University",
+        "city": "Houston",
+        "state": "TX",
+        "census_division": "West South Central",
+        "main_url": "www.tsu.edu",
+        "in_state_tuition": 4767,
+        "in_state_fees": 1324,
+        "out_of_state_tuition": 11824,
+        "out_of_state_fees": 1324,
+        "hbcu": 1,
+        "tribal_college": 2,
+        "percent_admitted": 51,
+        "number_of_undergrad_students": 6562,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.361961,
+          29.722468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Texas Tech University",
+        "city": "Lubbock",
+        "state": "TX",
+        "census_division": "West South Central",
+        "main_url": "www.ttu.edu",
+        "in_state_tuition": 6788,
+        "in_state_fees": 2562,
+        "out_of_state_tuition": 14968,
+        "out_of_state_fees": 2562,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 63,
+        "number_of_undergrad_students": 29963,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.874783,
+          33.583448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "The New School",
+        "city": "New York",
+        "state": "NY",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.newschool.edu/",
+        "in_state_tuition": 47176,
+        "in_state_fees": 466,
+        "out_of_state_tuition": 47176,
+        "out_of_state_fees": 466,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 60,
+        "number_of_undergrad_students": 7106,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.994636,
+          40.735275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "The University of Tennessee-Knoxville",
+        "city": "Knoxville",
+        "state": "TN",
+        "census_division": "East South Central",
+        "main_url": "www.utk.edu",
+        "in_state_tuition": 11468,
+        "in_state_fees": 1912,
+        "out_of_state_tuition": 29656,
+        "out_of_state_fees": 1912,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 77,
+        "number_of_undergrad_students": 22139,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.925852,
+          35.952082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "The University of Texas at Arlington",
+        "city": "Arlington",
+        "state": "TX",
+        "census_division": "West South Central",
+        "main_url": "WWW.UTA.EDU",
+        "in_state_tuition": 8739,
+        "in_state_fees": 1805,
+        "out_of_state_tuition": 21571,
+        "out_of_state_fees": 1805,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 70,
+        "number_of_undergrad_students": 32775,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.115087,
+          32.728437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "The University of Texas at Austin",
+        "city": "Austin",
+        "state": "TX",
+        "census_division": "West South Central",
+        "main_url": "www.utexas.edu",
+        "in_state_tuition": 12028,
+        "in_state_fees": 0,
+        "out_of_state_tuition": 22886,
+        "out_of_state_fees": 0,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 40,
+        "number_of_undergrad_students": 40168,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.739291,
+          30.28609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "The University of Texas at San Antonio",
+        "city": "San Antonio",
+        "state": "TX",
+        "census_division": "West South Central",
+        "main_url": "www.utsa.edu/",
+        "in_state_tuition": 6002,
+        "in_state_fees": 2289,
+        "out_of_state_tuition": 23518,
+        "out_of_state_fees": 2289,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 76,
+        "number_of_undergrad_students": 24724,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.621386,
+          29.582418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Tufts University",
+        "city": "Medford",
+        "state": "MA",
+        "census_division": "New England",
+        "main_url": "www.tufts.edu",
+        "in_state_tuition": 54196,
+        "in_state_fees": 972,
+        "out_of_state_tuition": 54196,
+        "out_of_state_fees": 972,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 14,
+        "number_of_undergrad_students": 5508,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.120316,
+          42.408465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Tulane University of Louisiana",
+        "city": "New Orleans",
+        "state": "LA",
+        "census_division": "West South Central",
+        "main_url": "tulane.edu",
+        "in_state_tuition": 59090,
+        "in_state_fees": 2086,
+        "out_of_state_tuition": 59090,
+        "out_of_state_fees": 2086,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 26,
+        "number_of_undergrad_students": 7924,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.120409,
+          29.939696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Universidad Ana G. Mendez",
+        "city": "San Juan",
+        "state": "PR",
+        "census_division": "Puerto Rico",
+        "main_url": "https://cupey.uagm.edu/",
+        "in_state_tuition": 2652,
+        "in_state_fees": 900,
+        "out_of_state_tuition": 2652,
+        "out_of_state_fees": 900,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 63.7,
+        "number_of_undergrad_students": 14793,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0614433,
+          18.3870373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Arizona",
+        "city": "Tucson",
+        "state": "AZ",
+        "census_division": "Mountain",
+        "main_url": "www.arizona.edu",
+        "in_state_tuition": 11938,
+        "in_state_fees": 1334,
+        "out_of_state_tuition": 32065,
+        "out_of_state_fees": 1334,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 79,
+        "number_of_undergrad_students": 33694,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.950814999999,
+          32.2326719999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Arkansas",
+        "city": "Fayetteville",
+        "state": "AR",
+        "census_division": "West South Central",
+        "main_url": "www.uark.edu",
+        "in_state_tuition": 7752,
+        "in_state_fees": 1089,
+        "out_of_state_tuition": 21032,
+        "out_of_state_fees": 1089,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 63,
+        "number_of_undergrad_students": 22548,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.176981,
+          36.070009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of California-Berkeley",
+        "city": "Berkeley",
+        "state": "CA",
+        "census_division": "Pacific",
+        "main_url": "www.berkeley.edu",
+        "in_state_tuition": 11442,
+        "in_state_fees": 2803,
+        "out_of_state_tuition": 26544,
+        "out_of_state_fees": 2803,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 17,
+        "number_of_undergrad_students": 29310,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.260462999999,
+          37.871918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of California-Irvine",
+        "city": "Irvine",
+        "state": "CA",
+        "census_division": "Pacific",
+        "main_url": "www.uci.edu/",
+        "in_state_tuition": 11442,
+        "in_state_fees": 1912,
+        "out_of_state_tuition": 26544,
+        "out_of_state_fees": 1912,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 41,
+        "number_of_undergrad_students": 27331,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.841248,
+          33.648434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of California-Los Angeles",
+        "city": "Los Angeles",
+        "state": "CA",
+        "census_division": "Pacific",
+        "main_url": "www.ucla.edu/",
+        "in_state_tuition": 11442,
+        "in_state_fees": 1587,
+        "out_of_state_tuition": 26544,
+        "out_of_state_fees": 1587,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 18,
+        "number_of_undergrad_students": 30873,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.443901,
+          34.068892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Central Florida",
+        "city": "Orlando",
+        "state": "FL",
+        "census_division": "South Atlantic",
+        "main_url": "www.ucf.edu/",
+        "in_state_tuition": 6916,
+        "in_state_fees": 1956,
+        "out_of_state_tuition": 25759,
+        "out_of_state_fees": 1956,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 50,
+        "number_of_undergrad_students": 55723,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.198805,
+          28.6010599999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Cincinnati-Main Campus",
+        "city": "Cincinnati",
+        "state": "OH",
+        "census_division": "East North Central",
+        "main_url": "www.uc.edu",
+        "in_state_tuition": 13224,
+        "in_state_fees": 1678,
+        "out_of_state_tuition": 24966,
+        "out_of_state_fees": 1678,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 76,
+        "number_of_undergrad_students": 25820,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51428,
+          39.131159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Colorado Denver/Anschutz Medical Campus",
+        "city": "Denver",
+        "state": "CO",
+        "census_division": "Mountain",
+        "main_url": "www.ucdenver.edu/",
+        "in_state_tuition": 6786,
+        "in_state_fees": 1325,
+        "out_of_state_tuition": 22590,
+        "out_of_state_fees": 1325,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 61,
+        "number_of_undergrad_students": 14622,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.837722,
+          39.745149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Delaware",
+        "city": "Newark",
+        "state": "DE",
+        "census_division": "South Atlantic",
+        "main_url": "www.udel.edu/",
+        "in_state_tuition": 34164,
+        "in_state_fees": 1028,
+        "out_of_state_tuition": 34164,
+        "out_of_state_fees": 1028,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 70,
+        "number_of_undergrad_students": 19215,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.752822,
+          39.679577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Detroit Mercy",
+        "city": "Detroit",
+        "state": "MI",
+        "census_division": "East North Central",
+        "main_url": "www.udmercy.edu",
+        "in_state_tuition": 20047,
+        "in_state_fees": 0,
+        "out_of_state_tuition": 20047,
+        "out_of_state_fees": 0,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 78,
+        "number_of_undergrad_students": 2646,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.138369,
+          42.417168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Florida",
+        "city": "Gainesville",
+        "state": "FL",
+        "census_division": "South Atlantic",
+        "main_url": "www.ufl.edu/",
+        "in_state_tuition": 10770,
+        "in_state_fees": 1967,
+        "out_of_state_tuition": 27335,
+        "out_of_state_fees": 1967,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 46,
+        "number_of_undergrad_students": 34554,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.347911,
+          29.64629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Georgia",
+        "city": "Athens",
+        "state": "GA",
+        "census_division": "South Atlantic",
+        "main_url": "www.uga.edu",
+        "in_state_tuition": 8878,
+        "in_state_fees": 2290,
+        "out_of_state_tuition": 25186,
+        "out_of_state_fees": 2290,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 54,
+        "number_of_undergrad_students": 27951,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.374039,
+          33.956262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Hartford",
+        "city": "West Hartford",
+        "state": "CT",
+        "census_division": "New England",
+        "main_url": "www.hartford.edu",
+        "in_state_tuition": 14292,
+        "in_state_fees": 555,
+        "out_of_state_tuition": 14292,
+        "out_of_state_fees": 555,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 72,
+        "number_of_undergrad_students": 5150,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.714965,
+          41.796485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Hawaii at Manoa",
+        "city": "Honolulu",
+        "state": "HI",
+        "census_division": "Pacific",
+        "main_url": "www.manoa.hawaii.edu",
+        "in_state_tuition": 15600,
+        "in_state_fees": 902,
+        "out_of_state_tuition": 33648,
+        "out_of_state_fees": 902,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 85,
+        "number_of_undergrad_students": 13132,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.818979,
+          21.298598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Houston",
+        "city": "Houston",
+        "state": "TX",
+        "census_division": "West South Central",
+        "main_url": "www.uh.edu/",
+        "in_state_tuition": 8539,
+        "in_state_fees": 1008,
+        "out_of_state_tuition": 17681,
+        "out_of_state_fees": 1008,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 59,
+        "number_of_undergrad_students": 35995,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.343537,
+          29.7203929999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Idaho",
+        "city": "Moscow",
+        "state": "ID",
+        "census_division": "Mountain",
+        "main_url": "www.uidaho.edu",
+        "in_state_tuition": 7754,
+        "in_state_fees": 2122,
+        "out_of_state_tuition": 26990,
+        "out_of_state_fees": 2122,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 76,
+        "number_of_undergrad_students": 9586,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.024295999999,
+          46.726894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Illinois at Chicago",
+        "city": "Chicago",
+        "state": "IL",
+        "census_division": "West North Central",
+        "main_url": "www.uic.edu",
+        "in_state_tuition": 13799,
+        "in_state_fees": 3322,
+        "out_of_state_tuition": 23714,
+        "out_of_state_fees": 3322,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 74,
+        "number_of_undergrad_students": 17959,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.651145,
+          41.872651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Illinois at Urbana-Champaign",
+        "city": "Champaign",
+        "state": "IL",
+        "census_division": "West North Central",
+        "main_url": "www.illinois.edu/",
+        "in_state_tuition": 15016,
+        "in_state_fees": 2896,
+        "out_of_state_tuition": 27187,
+        "out_of_state_fees": 2896,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 60,
+        "number_of_undergrad_students": 33932,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2303089999999,
+          40.108864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Iowa",
+        "city": "Iowa City",
+        "state": "IA",
+        "census_division": "West North Central",
+        "main_url": "www.uiowa.edu",
+        "in_state_tuition": 10079,
+        "in_state_fees": 1587,
+        "out_of_state_tuition": 26026,
+        "out_of_state_fees": 1587,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 84,
+        "number_of_undergrad_students": 24476,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.536425,
+          41.661935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Kansas",
+        "city": "Lawrence",
+        "state": "KS",
+        "census_division": "West North Central",
+        "main_url": "www.ku.edu",
+        "in_state_tuition": 9989,
+        "in_state_fees": 1056,
+        "out_of_state_tuition": 23951,
+        "out_of_state_fees": 1056,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 93,
+        "number_of_undergrad_students": 19262,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.247567,
+          38.958549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Kentucky",
+        "city": "Lexington",
+        "state": "KY",
+        "census_division": "East South Central",
+        "main_url": "www.uky.edu",
+        "in_state_tuition": 12189,
+        "in_state_fees": 1349,
+        "out_of_state_tuition": 31867,
+        "out_of_state_fees": 1349,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 91,
+        "number_of_undergrad_students": 22621,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.504747,
+          38.038911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Louisiana at Lafayette",
+        "city": "Lafayette",
+        "state": "LA",
+        "census_division": "West South Central",
+        "main_url": "www.louisiana.edu",
+        "in_state_tuition": 5511,
+        "in_state_fees": 4627,
+        "out_of_state_tuition": 19238,
+        "out_of_state_fees": 4627,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 51,
+        "number_of_undergrad_students": 15998,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.01941,
+          30.215283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Louisville",
+        "city": "Louisville",
+        "state": "KY",
+        "census_division": "East South Central",
+        "main_url": "www.louisville.edu",
+        "in_state_tuition": 13260,
+        "in_state_fees": 201,
+        "out_of_state_tuition": 27374,
+        "out_of_state_fees": 201,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 73,
+        "number_of_undergrad_students": 15826,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.758843,
+          38.215752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Maryland-College Park",
+        "city": "College Park",
+        "state": "MD",
+        "census_division": "South Atlantic",
+        "main_url": "www.umd.edu",
+        "in_state_tuition": 13158,
+        "in_state_fees": 1635,
+        "out_of_state_tuition": 29250,
+        "out_of_state_fees": 1635,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 48,
+        "number_of_undergrad_students": 28472,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.944721,
+          38.988178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Massachusetts-Amherst",
+        "city": "Amherst",
+        "state": "MA",
+        "census_division": "New England",
+        "main_url": "www.umass.edu",
+        "in_state_tuition": 14014,
+        "in_state_fees": 2221,
+        "out_of_state_tuition": 30120,
+        "out_of_state_fees": 2221,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 60,
+        "number_of_undergrad_students": 23373,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.526728,
+          42.385999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Massachusetts-Boston",
+        "city": "Boston",
+        "state": "MA",
+        "census_division": "New England",
+        "main_url": "www.umb.edu",
+        "in_state_tuition": 18433,
+        "in_state_fees": 505,
+        "out_of_state_tuition": 35980,
+        "out_of_state_fees": 505,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 69,
+        "number_of_undergrad_students": 12847,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.036865,
+          42.312881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Memphis",
+        "city": "Memphis",
+        "state": "TN",
+        "census_division": "East South Central",
+        "main_url": "www.memphis.edu",
+        "in_state_tuition": 9216,
+        "in_state_fees": 1530,
+        "out_of_state_tuition": 12672,
+        "out_of_state_fees": 1530,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 57,
+        "number_of_undergrad_students": 17183,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.938068,
+          35.118878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Miami",
+        "city": "Coral Gables",
+        "state": "FL",
+        "census_division": "South Atlantic",
+        "main_url": "www.miami.edu/",
+        "in_state_tuition": 39060,
+        "in_state_fees": 1160,
+        "out_of_state_tuition": 39060,
+        "out_of_state_fees": 1160,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 38,
+        "number_of_undergrad_students": 10792,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.278662,
+          25.72126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Michigan-Ann Arbor",
+        "city": "Ann Arbor",
+        "state": "MI",
+        "census_division": "East North Central",
+        "main_url": "www.umich.edu",
+        "in_state_tuition": 24344,
+        "in_state_fees": 428,
+        "out_of_state_tuition": 49120,
+        "out_of_state_fees": 428,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 29,
+        "number_of_undergrad_students": 28983,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.742769,
+          42.275921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Minnesota-Twin Cities",
+        "city": "Minneapolis",
+        "state": "MN",
+        "census_division": "West North Central",
+        "main_url": "twin-cities.umn.edu/",
+        "in_state_tuition": 17580,
+        "in_state_fees": 1641,
+        "out_of_state_tuition": 27204,
+        "out_of_state_fees": 1641,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 44,
+        "number_of_undergrad_students": 34870,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.235352,
+          44.977886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Nebraska-Lincoln",
+        "city": "Lincoln",
+        "state": "NE",
+        "census_division": "West North Central",
+        "main_url": "www.unl.edu/",
+        "in_state_tuition": 6138,
+        "in_state_fees": 1585,
+        "out_of_state_tuition": 17928,
+        "out_of_state_fees": 1585,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 75,
+        "number_of_undergrad_students": 20833,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.700508,
+          40.817598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Nevada-Las Vegas",
+        "city": "Las Vegas",
+        "state": "NV",
+        "census_division": "Mountain",
+        "main_url": "www.unlv.edu/",
+        "in_state_tuition": 5675,
+        "in_state_fees": 634,
+        "out_of_state_tuition": 21328,
+        "out_of_state_fees": 634,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 83,
+        "number_of_undergrad_students": 24714,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.141153,
+          36.106994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of New Mexico-Main Campus",
+        "city": "Albuquerque",
+        "state": "NM",
+        "census_division": "Mountain",
+        "main_url": "www.unm.edu",
+        "in_state_tuition": 5920,
+        "in_state_fees": 1401,
+        "out_of_state_tuition": 18489,
+        "out_of_state_fees": 1401,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 58,
+        "number_of_undergrad_students": 21023,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.620155,
+          35.083868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of New Orleans",
+        "city": "New Orleans",
+        "state": "LA",
+        "census_division": "West South Central",
+        "main_url": "uno.edu",
+        "in_state_tuition": 6090,
+        "in_state_fees": 3018,
+        "out_of_state_tuition": 10660,
+        "out_of_state_fees": 3018,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 56,
+        "number_of_undergrad_students": 6713,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.120409,
+          29.939696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of North Carolina at Chapel Hill",
+        "city": "Chapel Hill",
+        "state": "NC",
+        "census_division": "South Atlantic",
+        "main_url": "www.unc.edu",
+        "in_state_tuition": 10552,
+        "in_state_fees": 1970,
+        "out_of_state_tuition": 28278,
+        "out_of_state_fees": 1970,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 27,
+        "number_of_undergrad_students": 18522,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.050969,
+          35.911769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of North Carolina at Charlotte",
+        "city": "Charlotte",
+        "state": "NC",
+        "census_division": "South Atlantic",
+        "main_url": "www.uncc.edu",
+        "in_state_tuition": 10552,
+        "in_state_fees": 1970,
+        "out_of_state_tuition": 28278,
+        "out_of_state_fees": 1970,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 62,
+        "number_of_undergrad_students": 23404,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.730919,
+          35.306022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Notre Dame",
+        "city": "Notre Dame",
+        "state": "IN",
+        "census_division": "East North Central",
+        "main_url": "www.nd.edu",
+        "in_state_tuition": 57050,
+        "in_state_fees": 472,
+        "out_of_state_tuition": 57050,
+        "out_of_state_fees": 472,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 19,
+        "number_of_undergrad_students": 8530,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.238959,
+          41.703058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Oklahoma-Norman Campus",
+        "city": "Norman",
+        "state": "OK",
+        "census_division": "West South Central",
+        "main_url": "www.ou.edu",
+        "in_state_tuition": 6943,
+        "in_state_fees": 1634,
+        "out_of_state_tuition": 21602,
+        "out_of_state_fees": 1634,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 71,
+        "number_of_undergrad_students": 21609,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.445692,
+          35.208152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Oregon",
+        "city": "Eugene",
+        "state": "OR",
+        "census_division": "Pacific",
+        "main_url": "www.uoregon.edu",
+        "in_state_tuition": 15417,
+        "in_state_fees": 2370,
+        "out_of_state_tuition": 27621,
+        "out_of_state_fees": 2370,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 78,
+        "number_of_undergrad_students": 20049,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.075791999999,
+          44.045146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Pennsylvania",
+        "city": "Philadelphia",
+        "state": "PA",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.upenn.edu",
+        "in_state_tuition": 37678,
+        "in_state_fees": 4082,
+        "out_of_state_tuition": 37678,
+        "out_of_state_fees": 4082,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 9,
+        "number_of_undergrad_students": 11716,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19391,
+          39.9509289999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Pittsburgh-Pittsburgh Campus",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.pitt.edu",
+        "in_state_tuition": 23530,
+        "in_state_fees": 938,
+        "out_of_state_tuition": 39898,
+        "out_of_state_fees": 938,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 55,
+        "number_of_undergrad_students": 19123,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.954692,
+          40.444502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Puerto Rico",
+        "city": "San Juan",
+        "state": "PR",
+        "census_division": "Puerto Rico",
+        "main_url": "http://www.uprrp.edu/",
+        "in_state_tuition": 3420,
+        "in_state_fees": 200,
+        "out_of_state_tuition": 3420,
+        "out_of_state_fees": 200,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 43,
+        "number_of_undergrad_students": 15186,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0500407,
+          18.4028091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of South Florida-Main Campus",
+        "city": "Tampa",
+        "state": "FL",
+        "census_division": "South Atlantic",
+        "main_url": "www.usf.edu",
+        "in_state_tuition": 8350,
+        "in_state_fees": 2078,
+        "out_of_state_tuition": 19048,
+        "out_of_state_fees": 2078,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 47,
+        "number_of_undergrad_students": 31461,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.413232,
+          28.061458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Southern California",
+        "city": "Los Angeles",
+        "state": "CA",
+        "census_division": "Pacific",
+        "main_url": "www.usc.edu/",
+        "in_state_tuition": 47880,
+        "in_state_fees": 835,
+        "out_of_state_tuition": 47880,
+        "out_of_state_fees": 835,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 17,
+        "number_of_undergrad_students": 18794,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.284168999999,
+          34.021281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of the District of Columbia",
+        "city": "Washington",
+        "state": "DC",
+        "census_division": "South Atlantic",
+        "main_url": "www.udc.edu",
+        "in_state_tuition": 9234,
+        "in_state_fees": 860,
+        "out_of_state_tuition": 17748,
+        "out_of_state_fees": 860,
+        "hbcu": 1,
+        "tribal_college": 2,
+        "percent_admitted": 74,
+        "number_of_undergrad_students": 3950,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.066247,
+          38.943819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Utah",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "census_division": "Mountain",
+        "main_url": "www.utah.edu",
+        "in_state_tuition": 6666,
+        "in_state_fees": 1158,
+        "out_of_state_tuition": 23537,
+        "out_of_state_fees": 1158,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 76,
+        "number_of_undergrad_students": 23789,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.846043999999,
+          40.762484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Vermont",
+        "city": "Burlington",
+        "state": "VT",
+        "census_division": "New England",
+        "main_url": "www.uvm.edu",
+        "in_state_tuition": 12294,
+        "in_state_fees": 2366,
+        "out_of_state_tuition": 30960,
+        "out_of_state_fees": 2366,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 69,
+        "number_of_undergrad_students": 11159,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.198128,
+          44.479262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Virginia-Main Campus",
+        "city": "Charlottesville",
+        "state": "VA",
+        "census_division": "South Atlantic",
+        "main_url": "www.virginia.edu/",
+        "in_state_tuition": 17076,
+        "in_state_fees": 3108,
+        "out_of_state_tuition": 28604,
+        "out_of_state_fees": 3108,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 30,
+        "number_of_undergrad_students": 16331,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.503428,
+          38.035665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Washington-Seattle Campus",
+        "city": "Seattle",
+        "state": "WA",
+        "census_division": "Pacific",
+        "main_url": "www.washington.edu",
+        "in_state_tuition": 16278,
+        "in_state_fees": 1116,
+        "out_of_state_tuition": 29178,
+        "out_of_state_fees": 1116,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 45,
+        "number_of_undergrad_students": 30933,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.313115,
+          47.656213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Washington-Tacoma Campus",
+        "city": "Tacoma",
+        "state": "WA",
+        "census_division": "Pacific",
+        "main_url": "www.tacoma.uw.edu/",
+        "in_state_tuition": 16278,
+        "in_state_fees": 1116,
+        "out_of_state_tuition": 29178,
+        "out_of_state_fees": 1116,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 84,
+        "number_of_undergrad_students": 4285,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438540999999,
+          47.244594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Wisconsin Colleges",
+        "city": "Madison",
+        "state": "WI",
+        "census_division": "East North Central",
+        "main_url": "www.uwc.edu",
+        "in_state_tuition": 10728,
+        "in_state_fees": 1469,
+        "out_of_state_tuition": 24054,
+        "out_of_state_fees": 1469,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 75,
+        "number_of_undergrad_students": 11940,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39859,
+          43.068214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "University of Wisconsin-Milwaukee",
+        "city": "Milwaukee",
+        "state": "WI",
+        "census_division": "East North Central",
+        "main_url": "www.uwm.edu",
+        "in_state_tuition": 10701,
+        "in_state_fees": 1163,
+        "out_of_state_tuition": 24132,
+        "out_of_state_fees": 1163,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 73,
+        "number_of_undergrad_students": 20968,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.880488,
+          43.076848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Ursuline College",
+        "city": "Pepper Pike",
+        "state": "OH",
+        "census_division": "East West Central",
+        "main_url": "www.ursuline.edu",
+        "in_state_tuition": 21852,
+        "in_state_fees": 340,
+        "out_of_state_tuition": 21852,
+        "out_of_state_fees": 340,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 90,
+        "number_of_undergrad_students": 645,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.466716,
+          41.494971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Utah State University",
+        "city": "Logan",
+        "state": "UT",
+        "census_division": "Mountain West",
+        "main_url": "www.usu.edu",
+        "in_state_tuition": 6164,
+        "in_state_fees": 1023,
+        "out_of_state_tuition": 21575,
+        "out_of_state_fees": 1023,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 90,
+        "number_of_undergrad_students": 24838,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.81391,
+          41.7407479999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Virginia Commonwealth University",
+        "city": "Richmond",
+        "state": "VA",
+        "census_division": "South Atlantic",
+        "main_url": "www.vcu.edu/",
+        "in_state_tuition": 12703,
+        "in_state_fees": 2497,
+        "out_of_state_tuition": 26041,
+        "out_of_state_fees": 2497,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 81,
+        "number_of_undergrad_students": 23865,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.453597,
+          37.547631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Virginia Polytechnic Institute and State University",
+        "city": "Blacksburg",
+        "state": "VA",
+        "census_division": "South Atlantic",
+        "main_url": "WWW.VT.EDU",
+        "in_state_tuition": 13701,
+        "in_state_fees": 2329,
+        "out_of_state_tuition": 27614,
+        "out_of_state_fees": 2329,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 71,
+        "number_of_undergrad_students": 25791,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.423675,
+          37.229012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Washington State University",
+        "city": "Pullman",
+        "state": "WA",
+        "census_division": "Pacific",
+        "main_url": "wsu.edu/",
+        "in_state_tuition": 11781,
+        "in_state_fees": 1682,
+        "out_of_state_tuition": 25879,
+        "out_of_state_fees": 1682,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 72,
+        "number_of_undergrad_students": 24904,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "TRUE",
+        "degree_count": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.158167999999,
+          46.7304479999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Washington University in St Louis",
+        "city": "Saint Louis",
+        "state": "MO",
+        "census_division": "West North Central",
+        "main_url": "www.wustl.edu",
+        "in_state_tuition": 56300,
+        "in_state_fees": 262,
+        "out_of_state_tuition": 56300,
+        "out_of_state_fees": 262,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 17,
+        "number_of_undergrad_students": 7555,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.310604,
+          38.647929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Wayne State University",
+        "city": "Detroit",
+        "state": "MI",
+        "census_division": "East North Central",
+        "main_url": "www.wayne.edu",
+        "in_state_tuition": 16285,
+        "in_state_fees": 1941,
+        "out_of_state_tuition": 35274,
+        "out_of_state_fees": 1941,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 81,
+        "number_of_undergrad_students": 17220,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.138369,
+          42.417168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Wentworth Institute of Technology",
+        "city": "Boston",
+        "state": "MA",
+        "census_division": "New England",
+        "main_url": "WWW.WIT.EDU",
+        "in_state_tuition": 38600,
+        "in_state_fees": 0,
+        "out_of_state_tuition": 38600,
+        "out_of_state_fees": 0,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 71,
+        "number_of_undergrad_students": 4317,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.094983,
+          42.336632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "West Chester University of Pennsylvania",
+        "city": "West Chester",
+        "state": "PA",
+        "census_division": "Middle Atlantic",
+        "main_url": "www.wcupa.edu",
+        "in_state_tuition": 9288,
+        "in_state_fees": 2610,
+        "out_of_state_tuition": 13932,
+        "out_of_state_fees": 2610,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 64,
+        "number_of_undergrad_students": 14397,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59812,
+          39.953398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "West Virginia University",
+        "city": "Morgantown",
+        "state": "WV",
+        "census_division": "South Atlantic",
+        "main_url": "www.wvu.edu",
+        "in_state_tuition": 10134,
+        "in_state_fees": 0,
+        "out_of_state_tuition": 26154,
+        "out_of_state_fees": 0,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 76,
+        "number_of_undergrad_students": 22350,
+        "funding_source": "Public",
+        "land_grant_university": "TRUE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.954391,
+          39.634371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Western Illinois University",
+        "city": "Macomb",
+        "state": "IL",
+        "census_division": "East North Central",
+        "main_url": "www.wiu.edu",
+        "in_state_tuition": 8156,
+        "in_state_fees": 3840,
+        "out_of_state_tuition": 8156,
+        "out_of_state_fees": 3840,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 59,
+        "number_of_undergrad_students": 8543,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6852349999999,
+          40.465621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Western Michigan University",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "census_division": "East North Central",
+        "main_url": "https://wmich.edu/",
+        "in_state_tuition": 16360,
+        "in_state_fees": 923,
+        "out_of_state_tuition": 30432,
+        "out_of_state_fees": 923,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 82,
+        "number_of_undergrad_students": 18313,
+        "funding_source": "Public",
+        "land_grant_university": "FALSE",
+        "stem_certification": "FALSE",
+        "accreditation_bool": "FALSE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6151199999999,
+          42.282589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Woodbury University",
+        "city": "Burbank",
+        "state": "CA",
+        "census_division": "Pacific",
+        "main_url": "woodbury.edu/",
+        "in_state_tuition": 40140,
+        "in_state_fees": 1530,
+        "out_of_state_tuition": 40140,
+        "out_of_state_fees": 1530,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 66,
+        "number_of_undergrad_students": 1104,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.341146999999,
+          34.208011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "CT",
+        "census_division": "New England",
+        "main_url": "www.yale.edu",
+        "in_state_tuition": 44500,
+        "in_state_fees": 0,
+        "out_of_state_tuition": 44500,
+        "out_of_state_fees": 0,
+        "hbcu": 2,
+        "tribal_college": 2,
+        "percent_admitted": 6,
+        "number_of_undergrad_students": 5472,
+        "funding_source": "Private",
+        "land_grant_university": "FALSE",
+        "stem_certification": "TRUE",
+        "accreditation_bool": "TRUE",
+        "healthcare_schools": "FALSE",
+        "degree_count": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.926688,
+          41.311158
+        ]
+      }
+    }
+  ]
+}
