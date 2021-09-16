@@ -1,1 +1,19 @@
 Stills of scale/hue comparisons
+
+To make static graphs of specific comparisons, I started from the clean full dataset on GitHub. Then, I portioned the data into CSVs based on the comparison as necessary. Here, the data is split into public and private for analysis.
+
+> publicunis <- read.csv("D:/COL_SHEETS/publicunis.csv")
+> privateunis <- read.csv("D:/COL_SHEETS/privateunis.csv")
+
+Then, feed that data into leaflet. Add customization as desired. Some customization options can be found here.
+
+> publicunis %>% leaflet() %>% addTiles() %>% addMarkers()
+> privateunis %>% leaflet() %>% addTiles() %>% addMarkers()
+
+
+
+Note: To change the name of the first column in imported data, use the following command:
+
+colnames(data_name)[1] <- "new_name"
+
+Make sure it is [1], otherwise you’ll just change the name of the index in the data frame.
