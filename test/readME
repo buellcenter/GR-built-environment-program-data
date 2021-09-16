@@ -1,3 +1,14 @@
 This folder is a test for the individual widgets created.
 
 The first is a leaflet map, the second is a reactable table. These were made as inidivual widgets and are not self contained.
+
+
+> hhh <- leaflet(testing234) %>% addTiles() %>% addMarkers(label=testing234$university))
+> iii <- reactable(testing123, groupBy = “university”, sortable= TRUE, searchable = TRUE, defaultPageSize = 4))
+
+> saveWidget(hhh, file = "map.html", selfcontained = FALSE)
+> saveWidget(iii, file = "table.html", selfcontained = FALSE)
+
+
+*** maps.html has the following added to its header scripts: crossorigin="anonymous"
+Embeds still do not work from GitHub.
