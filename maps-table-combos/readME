@@ -1,1 +1,40 @@
 These maps are based on geojson data with an accompanying table with expandable university groupings. Markers give university name on click, which can then be searched in the table.
+
+Process Documentation:
+
+Packages to load
+
+> library(leaflet)
+> library(DT)
+> library(crosstalk)
+> library(htmlwidgets)
+For a more dynamic combination of map and table, the following combines geojson data with an expanded csv dataset. First, load the csv file with all universities and programs.
+
+> testing123 <- read.csv("D:/COL_SHEETS/full data csv.csv")
+
+Now load the geojson file with all universities.
+> testing234 <- geojson_read("https://raw.githubusercontent.com/buellcenter/GR-built-environment-program-data/main/fullmaps/ugradplusgrad.geojson", what = "sp")
+
+Use leaflet to test that the geojson loaded correctly. A map with blue markers should appear.
+
+> leaflet(testing234) %>% addTiles() %>% addMarkers()
+
+We will use this leaflet line with some slight customization for the combined html elements. We add the popup customization when we add our markers (popup = ~htmlEscape(university)). If we would like university labels to be on hover instead of as a popup on click, we can use addMarkers(label=testing234$university).
+
+The second part that we will build is the reactable table. This will use our csv data. We will customize is to group by university, which will condense multiple programs at one school into a single unit that expands on click. Then, we will make the table sortable by ascending and descending, and searchable, adding a search bar to the top right corner. We will have a default page size of 4 items per page so as not to flood the screen.
+
+We combine these two items under bscols().
+
+> bscols(
+    leaflet(testing234) %>% addTiles() %>% addMarkers(popup = ~htmlEscape(university)),
+    reactable(testing123, groupBy = “university”, sortable= TRUE, searchable = TRUE, defaultPageSize = 4))
+
+This output can be saved as an html file using the R console. This creates the file “less crowded.html” on GitHub under maps-table-combos. Further add-ons, such as minimaps, can be found here. That said, if we wanted to use saveWidget from the htmlwidgets package, we would have to split these objects up. 
+
+> hhh <- leaflet(testing234) %>% addTiles() %>% addMarkers(label=testing234$university))
+> iii <- reactable(testing123, groupBy = “university”, sortable= TRUE, searchable = TRUE, defaultPageSize = 4))
+
+> saveWidget(hhh, file = "map.html", selfcontained = FALSE)
+> saveWidget(iii, file = "table.html", selfcontained = FALSE)
+
+This creates two highly manageable html files. They are currently under the test folder in the GitHub repository. 
