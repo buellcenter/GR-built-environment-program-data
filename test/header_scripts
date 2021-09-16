@@ -1,0 +1,24 @@
+These header scripts are for the leaflet map and reactable table files in the test folder. This should allow the code in test essay to load properly.
+
+
+For table:
+
+<script src="table_files/core-js-2.5.3/shim.min.js"></script>
+<script src="table_files/react-17.0.0/react.min.js"></script>
+<script src="table_files/react-17.0.0/react-dom.min.js"></script>
+<script src="table_files/reactwidget-1.0.0/react-tools.js"></script>
+<script src="table_files/htmlwidgets-1.5.4/htmlwidgets.js"></script>
+<script src="table_files/reactable-binding-0.2.3/reactable.js"></script>
+
+
+For map:
+
+<script src="map_files/htmlwidgets-1.5.4/htmlwidgets.js"></script>
+<script src="map_files/jquery-1.12.4/jquery.min.js"></script>
+<link href="map_files/leaflet-1.3.1/leaflet.css" rel="stylesheet" />
+<script src="map_files/leaflet-1.3.1/leaflet.js"></script>
+<link href="map_files/leafletfix-1.0.0/leafletfix.css" rel="stylesheet" />
+<script src="map_files/proj4-2.6.2/proj4.min.js"></script>
+<script src="map_files/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+<link href="map_files/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet" />
+<script src="map_files/leaflet-binding-2.0.4.1/leaflet.js"></script>
