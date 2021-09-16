@@ -1,1 +1,25 @@
 These files are HTML documents that are based on the R crosstalk package. Maps are linked with table using shared data.
+
+
+> library(leaflet)
+> library(DT)
+> library(crosstalk)
+> library(htmlwidgets)
+
+After loading these packages, I put in a placeholder name (“certscsv” in this case) and loaded the file from a csv.
+
+> certscsv <- read.csv("D:/COL_SHEETS/certscsv.csv")
+
+Then I made that data into shared data.
+
+> sharedcsvdata <- SharedData$new(certcsv)
+
+Then I built the map using leaflet and the table using datatable() from DT.
+
+> bscols(
+  leaflet(sharedcsvdata) %>% addTiles() %>% addMarkers(),
+  datatable(sharedcsvdata, extensions="Scroller", style="bootstrap", class="compact", width="100%",
+ 		   options=list(deferRender=TRUE, scrollY=300, scroller=TRUE))
+)
+
+I then saved the output as a webpage.Those are on the GitHub under the crosstalk-items.
